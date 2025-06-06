@@ -35,7 +35,7 @@ const About = () => {
               <FaMicroscope className="text-blue-600 text-2xl" />
             </div>
             <h2 className="text-2xl font-semibold text-gray-800">Introduction to Skin Diseases</h2>
-          </div>
+        </div>
           <p className="text-gray-600 leading-relaxed">
             Skin diseases are conditions that affect your skin, the body's largest organ. These conditions can vary widely in symptoms and severity, from minor rashes to serious infections. They often manifest as changes in skin appearance, such as:
           </p>
@@ -172,7 +172,7 @@ const About = () => {
                 </p>
               </motion.div>
             ))}
-          </div>
+        </div>
         </motion.div>
       </div>
 
